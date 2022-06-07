@@ -44,7 +44,7 @@ function prime(num) {
 
 
 
-
+#THIS IS THE SOLUTION
 function solution(arg) {
   return prime(arg);
 }
